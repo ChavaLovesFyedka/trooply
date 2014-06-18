@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  badge_id: 
+  activity_id: 
+
+two:
+  badge_id: 
+  activity_id: 
