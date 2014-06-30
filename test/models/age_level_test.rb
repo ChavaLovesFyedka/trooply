@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class ActivityBadgeTest < ActiveSupport::TestCase
+class AgeLevelTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end

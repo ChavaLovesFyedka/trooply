@@ -5,7 +5,8 @@ one:
   genre: MyString
   description: MyText
   season: MyString
-  skill_id: 1
+  one_time: MyString
+  location: MyString
   badge_id: 1
 
 two:
@@ -13,5 +14,6 @@ two:
   genre: MyString
   description: MyText
   season: MyString
-  skill_id: 1
+  one_time: MyString
+  location: MyString
   badge_id: 1
